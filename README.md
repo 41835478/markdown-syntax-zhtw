@@ -1,1 +1,1 @@
-syntax.md
+syntaz-zhCN.md
